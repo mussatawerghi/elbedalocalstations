@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Elbeda Net Work - Leaflet</title>
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+	<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<style>
+		#map {
+			width: 800px;
+			height: 600px;
+		}
+</style>
+
+
+</head>
+  
+<body>
+
+<div id="map" >
+</div> 
+
+<script> 
+  var rad;
+
+ var url = 'jabal.json';  // my GeoJSON data source, in the same folder as my HTML file.
+ 
+  var map = L.map('map').setView([32.680996, 21.758423], 11);
+        
+var basemap = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', { attribution: 'Basemap (c) <ahref="http://openstreetmap.org">OpenStreetMap</a>',
+ minZoom: 2,
+ maxZoom: 18 });  
+////// 
+basemap.addTo(map);
+
+//	var osm=new L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png',{ 
+//				attribution: '© <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'});
+ 
+  var circle_Size=20;
+var  geojsonMarkerOptions = {
+        
+        'radius':circle_Size,
+		'opacity': .5,
+		'color': "red",
+		'fillColor':  "yellow",
+		'fillOpacity': 0.8
+	};
+ // console.log(rad)
+	function forEachFeature(feature, layer) {
+     rad=feature.properties.circle_size;
+    var popupContent = "<p>The <b>" +
+	feature.properties.station_name + "</b> is here,</br> They are in the " +
+	feature.properties.company + "</br>" +
+	'<a href="'+ feature.properties.website +'" target="_blank">Website</a></p>' ;
+	if (feature.properties && feature.properties.popupContent) {
+	popupContent += feature.properties.popupContent;
+			}
+     // arad=feature.geometry.coordinates;
+				layer.bindPopup(popupContent);
+     
+      /////////[32.680996, 21.758423]
+    
+     ///////
+    //  console.log(rad )
+    };
+ 
+//var bedaNetwork = L.geoJSON(null, {onEachFeature: forEachFeature, style: style});
+	  var bedaNetwork = L.geoJSON(null, {
+			onEachFeature: forEachFeature, 
+			pointToLayer: function (feature, latlng) {
+             
+    return   L.circleMarker(latlng, {radius:rad,'opacity': 1,
+		'color': "red",
+		'fillColor':  "yellow",
+		'fillOpacity': .3});      //.addTo(map)
+   //   return  L.circleMarker(latlng, rad);                //.addTo(map); 
+	//return L.circleMarker(latlng, geojsonMarkerOptions);
+			}
+     });
+   	// Get GeoJSON data and create features.
+    $.getJSON(url, function(data) {
+  			bedaNetwork.addData(data);
+	});
+	bedaNetwork.addTo(map);
+
+  </script> 
+</body>
+</html>
+
+
