@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "marker-color": "black",
-      "circle_size":10
+        "circle_size": 10
       },
       "geometry": {
         "type": "LineString",
@@ -60,7 +60,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size":10,
+        "circle_size": 10,
         "website": ""
       },
       "geometry": {
@@ -104,7 +104,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size":10
+        "circle_size": 10
       },
       "geometry": {
         "type": "LineString",
@@ -191,7 +191,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size":10,
+        "circle_size": 10,
         "marker-color": "#dffffoo",
         "station_name": "strange color",
         "company": "stange company name",
@@ -246,7 +246,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "University",
-        "circle_size":20,
+        "circle_size": 20,
         "company": "HLC1",
         "website": "https://www.hlc.ly/"
       },
@@ -265,7 +265,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Omar Elmughtar",
-        "circle_size":30,
+        "circle_size": 30,
         "company": "HLC2",
         "website": "https://www.hlc.ly/"
       },
@@ -284,7 +284,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Asluntah",
-        "circle_size":40,
+        "circle_size": 40,
         "company": "HLC3",
         "website": "https://www.hlc.ly/"
       },
@@ -303,7 +303,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Albeda",
-        "circle_size":50,
+        "circle_size": 50,
         "company": "HLC3",
         "website": "https://www.hlc.ly/"
       },
@@ -322,7 +322,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Alfaydya",
-        "circle_size":60,
+        "circle_size": 60,
         "company": "HLC5",
         "website": "https://www.hlc.ly/"
       },
@@ -337,7 +337,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size":10,
+        "circle_size": 10,
         "marker-color": ""
       },
       "geometry": {
@@ -369,7 +369,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size":10,
+        "circle_size": 10,
         "station_name": "",
         "marker-color": ""
       },
@@ -394,7 +394,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "labriq airport",
-        "circle_size":70,
+        "circle_size": 70,
         "company": "HLC6",
         "website": "https://tawergha.coffeecup.com/tele.html"
       },
@@ -413,7 +413,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Labriq_postoffice",
-        "circle_size":80,
+        "circle_size": 80,
         "company": "HLC7",
         "website": "https://tawergha.coffeecup.com/tele.html"
       },
@@ -432,7 +432,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Emmgration",
-        "circle_size":90,
+        "circle_size": 90,
         "company": "HLC8",
         "website": "https://tawergha.coffeecup.com/tele.html"
       },
@@ -451,7 +451,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "old post office",
-        "circle_size":100,
+        "circle_size": 100,
         "company": "HLC9",
         "website": "https://tawergha.coffeecup.com/tele.html"
       },
@@ -466,8 +466,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size":110
-        
+        "circle_size": 110
       },
       "geometry": {
         "type": "LineString",
@@ -670,7 +669,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size":150
+        "circle_size": 150
       },
       "geometry": {
         "type": "LineString",
@@ -729,7 +728,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size":10
+        "circle_size": 10
       },
       "geometry": {
         "type": "LineString",
