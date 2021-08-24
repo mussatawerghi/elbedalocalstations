@@ -191,11 +191,11 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size": 10,
+        "circle_size": 50,
         "marker-color": "#dffffoo",
         "station_name": "strange color",
         "company": "stange company name",
-        "website": "stange webname"
+        "website": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSR5YBiFWd6j7U0GlX0HKnrmpftt0YpYCA8YtRx5n384_94oHZVbADBX082y4VPmQ/pub?output=pdf"
       },
       "geometry": {
         "type": "LineString",
