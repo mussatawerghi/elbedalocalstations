@@ -39,15 +39,6 @@ basemap.addTo(map);
 //	var osm=new L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png',{ 
 //				attribution: '© <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'});
  
-  var circle_Size=50;
-var  geojsonMarkerOptions = {
-        
-        'radius':circle_Size,
-		'opacity': .5,
-		'color': "red",
-		'fillColor':  "blue",
-		'fillOpacity': 0.8
-	};
  // console.log(rad)
 	function forEachFeature(feature, layer) {
      rad=feature.properties.circle_size;
