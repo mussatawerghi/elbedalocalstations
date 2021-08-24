@@ -39,8 +39,7 @@ basemap.addTo(map);
 //	var osm=new L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png',{ 
 //				attribution: '© <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'});
  
- // console.log(rad)
-	function forEachFeature(feature, layer) {
+function forEachFeature(feature, layer) {
      rad=feature.properties.circle_size;
     var popupContent = "<p>The <b>" +
 	feature.properties.station_name + "</b> is here,</br> They are in the " +
@@ -48,17 +47,11 @@ basemap.addTo(map);
 	'<a href="'+ feature.properties.website +'" target="_blank">Website</a></p>' ;
 	if (feature.properties && feature.properties.popupContent) {
 	popupContent += feature.properties.popupContent;
-			}
-     // arad=feature.geometry.coordinates;
-				layer.bindPopup(popupContent);
+	}
+   	layer.bindPopup(popupContent);
      
-      /////////[32.680996, 21.758423]
-    
-     ///////
-    //  console.log(rad )
-    };
+        };
  
-//var bedaNetwork = L.geoJSON(null, {onEachFeature: forEachFeature, style: style});
 	  var bedaNetwork = L.geoJSON(null, {
 			onEachFeature: forEachFeature, 
 			pointToLayer: function (feature, latlng) {
@@ -67,9 +60,7 @@ basemap.addTo(map);
 		'color': "green",
 		'fillColor':  "yellow",
 		'fillOpacity': .3});      //.addTo(map)
-   //   return  L.circleMarker(latlng, rad);                //.addTo(map); 
-	//return L.circleMarker(latlng, geojsonMarkerOptions);
-			}
+  		}
      });
    	// Get GeoJSON data and create features.
     $.getJSON(url, function(data) {
