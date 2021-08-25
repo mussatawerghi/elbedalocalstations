@@ -61,7 +61,7 @@
       "type": "Feature",
       "properties": {
         "circle_size": 20,
-        "website": ""
+        "website": "empty"
       },
       "geometry": {
         "type": "LineString",
