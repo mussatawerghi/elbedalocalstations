@@ -4,8 +4,12 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "black",
-        "circle_size": 10
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "marker-color": "#000000",
+        "circle_size": 10,
+        "LINK": "POSTOFFICE_EMGRATION"
       },
       "geometry": {
         "type": "LineString",
