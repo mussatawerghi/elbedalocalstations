@@ -369,7 +369,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size":110,
+        "circle_size": 110,
         "station_name": "sime staton name",
         "marker-color": ""
       },
@@ -728,8 +728,7 @@
     {
       "type": "Feature",
       "properties": {
-       "NGPN_LINK ": "ELMARJ_ELBEDA",
-      
+        "NGPN_LINK ": "ELMARJ_ELBEDA",
         "circle_size": 180,
         "company": "HLC9",
         "website": "https://tawergha.coffeecup.com/tele.html"
@@ -977,6 +976,22 @@
             21.73147201538086,
             32.7572522610541
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1da090",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "STATION NAME ": "ELMARJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.832824707031246,
+          32.505129231918936
         ]
       }
     }
