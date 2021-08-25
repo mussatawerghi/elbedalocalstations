@@ -728,10 +728,8 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#e9e107",
-        "marker-size": "medium",
-        "marker-symbol": "",
-        "station_name": "El_MARJ",
+       
+      
         "circle_size": 180,
         "company": "HLC9",
         "website": "https://tawergha.coffeecup.com/tele.html"
