@@ -8,7 +8,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "marker-color": "#000000",
-        "circle_size": 10,
+        "circle_size": 5,
         "LINK": "POSTOFFICE_EMGRATION"
       },
       "geometry": {
@@ -64,7 +64,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size": 20,
+        "circle_size": 10,
         "website": "empty"
       },
       "geometry": {
@@ -108,7 +108,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size": 30
+        "circle_size": 15
       },
       "geometry": {
         "type": "LineString",
@@ -195,7 +195,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size": 40,
+        "circle_size": 20,
         "marker-color": "#dffffoo",
         "station_name": "strange color",
         "company": "stange company name",
@@ -250,7 +250,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "University",
-        "circle_size": 50,
+        "circle_size": 25,
         "company": "HLC1",
         "website": "https://www.hlc.ly/"
       },
@@ -269,7 +269,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Omar Elmughtar",
-        "circle_size": 60,
+        "circle_size": 30,
         "company": "HLC2",
         "website": "https://docs.google.com/spreadsheets/d/e/2PACX-1vT_6_-0gQnrZcC5RvThS-8qztS2LDWSdrYSGPtWVTV5hOss_B1VtSrB1MAAbolF1A_JeTukgA8V_rMU/pub?output=xlsx"
       },
@@ -288,7 +288,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Asluntah",
-        "circle_size": 70,
+        "circle_size": 35,
         "company": "HLC3",
         "website": "https://www.hlc.ly/"
       },
@@ -307,7 +307,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Albeda",
-        "circle_size": 80,
+        "circle_size": 40,
         "company": "HLC3",
         "website": "https://www.hlc.ly/"
       },
@@ -326,7 +326,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Alfaydya",
-        "circle_size": 90,
+        "circle_size": 45,
         "company": "HLC5",
         "website": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
       },
@@ -341,7 +341,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size": 100,
+        "circle_size": 50,
         "marker-color": ""
       },
       "geometry": {
@@ -373,7 +373,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size": 110,
+        "circle_size": 55,
         "station_name": "sime staton name",
         "marker-color": ""
       },
@@ -398,7 +398,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "labriq airport",
-        "circle_size": 120,
+        "circle_size": 60,
         "company": "HLC6",
         "website": "https://tawergha.coffeecup.com/tele.html"
       },
@@ -417,7 +417,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Labriq_postoffice",
-        "circle_size": 130,
+        "circle_size": 65,
         "company": "HLC7",
         "website": "https://tawergha.coffeecup.com/tele.html"
       },
@@ -436,7 +436,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "Emmgration",
-        "circle_size": 140,
+        "circle_size": 70,
         "company": "HLC8",
         "website": "https://tawergha.coffeecup.com/tele.html"
       },
@@ -455,7 +455,7 @@
         "marker-size": "medium",
         "marker-symbol": "",
         "station_name": "old post office",
-        "circle_size": 150,
+        "circle_size": 75,
         "company": "HLC9",
         "website": "https://tawergha.coffeecup.com/tele.html"
       },
@@ -470,7 +470,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size": 160
+        "circle_size": 80
       },
       "geometry": {
         "type": "LineString",
@@ -673,7 +673,7 @@
     {
       "type": "Feature",
       "properties": {
-        "circle_size": 170
+        "circle_size": 85
       },
       "geometry": {
         "type": "LineString",
@@ -733,7 +733,7 @@
       "type": "Feature",
       "properties": {
         "NGPN_LINK ": "ELMARJ_ELBEDA",
-        "circle_size": 180,
+        "circle_size": 90,
         "company": "HLC9",
         "website": "https://tawergha.coffeecup.com/tele.html"
       },
