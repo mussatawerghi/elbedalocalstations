@@ -1,0 +1,75 @@
+﻿[
+	{
+		"id": "10",
+		"connected": "E1 10 ",
+		"station": "elbeda",
+		"number_in_ststion": "111",
+		"distination": "طرابلس (tri110/slot5 p3 ) ",
+		"ocmplet_connection": "",
+		"between": "KMILE(هاتف ليبيا)",
+		"capacity": "2M",
+		"type": "Fiber",
+		"equpment": "HUA -NG ",
+		"custumer": " جوازات - الرقم الوطني ",
+		"coneecte_date": "13-11-2013",
+		"remarks": "شحات\\طبرق\\المرج\\الساحل (KMILE)"
+	},
+	{
+		"id": "20",
+		"connected": "E1 20 ",
+		"station": "sabha",
+		"number_in_ststion": "222",
+		"distination": "طرابلس (tri110/slot5 p3 ) ",
+		"ocmplet_connection": "2222",
+		"between": "KMILE(هاتف ليبيا)",
+		"capacity": "2M",
+		"type": "Fiber",
+		"equpment": "HUA -NG ",
+		"custumer": " جوازات - الرقم الوطني ",
+		"coneecte_date": "13-11-2013",
+		"remarks": "شحات\\طبرق\\المرج\\الساحل (KMILE)"
+	},{
+		"id": "30",
+		"connected": "E1 3 ",
+		"station": "albeda again",
+		"number_in_ststion": "333",
+		"distination": "طرابلس (tri110/slot5 p3 ) ",
+		"ocmplet_connection": "",
+		"between": "KMILE(هاتف ليبيا)",
+		"capacity": "2M",
+		"type": "Fiber",
+		"equpment": "HUA -NG ",
+		"custumer": " جوازات - الرقم الوطني ",
+		"coneecte_date": "13-11-2013",
+		"remarks": "شحات\\طبرق\\المرج\\الساحل (KMILE)"
+	},{
+		"id": "4",
+		"connected": "E1 44 ",
+		"station": "البيضاء",
+		"number_in_ststion": "444",
+		"distination": "طرابلس (tri110/slot5 p3 ) ",
+		"ocmplet_connection": "",
+		"between": "KMILE(هاتف ليبيا)",
+		"capacity": "2M",
+		"type": "Fiber",
+		"equpment": "HUA -NG ",
+		"custumer": " جوازات - الرقم الوطني ",
+		"coneecte_date": "13-11-2013",
+		"remarks": "شحات\\طبرق\\المرج\\الساحل (KMILE)"
+	},{
+		"id": "5",
+		"connected": "E1 50 ",
+		"station": "البيضاء",
+		"number_in_ststion": "555",
+		"distination": "طرابلس (tri110/slot5 p3 ) ",
+		"ocmplet_connection": "some",
+		"between": "KMILE(هاتف ليبيا)",
+		"capacity": "2M",
+		"type": "Fiber",
+		"equpment": "HUA -NG ",
+		"custumer": " جوازات - الرقم الوطني ",
+		"coneecte_date": "13-11-2013",
+		"remarks": "شحات\\طبرق\\المرج\\الساحل (KMILE)"
+	}
+	
+]
