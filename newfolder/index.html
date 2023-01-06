@@ -170,7 +170,7 @@ var ngpn =L.layerGroup();
   
 var submarine =L.layerGroup();
         var submarsible = $.ajax({
-           url: "submarine.txt",
+           url: "submarine.geojson",
             dataType: "json",
             success: console.log("submarsible data successfully loaded."),
             error: function(xhr) {
