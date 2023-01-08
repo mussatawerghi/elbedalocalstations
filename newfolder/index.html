@@ -145,11 +145,11 @@ var url = 'osn.txt';
 ////
 var ngpn =L.layerGroup();
         var nGpn = $.ajax({
-            url:  "ngpn.txt",
+            url:  "nGpn.txt",
             dataType: "json",
             success: console.log("nGpn data successfully loaded."),
             error: function(xhr) {
-               alert("ngpn data successfully  not loaded.")
+               alert(xhr.statusText)
             }
           })
      
@@ -170,12 +170,11 @@ var ngpn =L.layerGroup();
   
 var submarine =L.layerGroup();
         var submarsible = $.ajax({
-           url: "submarine.geojson",
+           url: "submarinecable.txt",
             dataType: "json",
             success: console.log("submarsible data successfully loaded."),
             error: function(xhr) {
-		     alert("submarime geojson data NOT loaded.")
-             //  alert(xhr.statusText)
+               alert(xhr.statusText)
             }
           })
     
