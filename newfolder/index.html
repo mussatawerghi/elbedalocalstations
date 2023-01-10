@@ -69,7 +69,7 @@ var url = 'osn.txt';
  "<p> Direction AddDrop :<b>" +feature.properties.Sart_End_Direction_AddDrop +
 "<p> Port: <b>" + feature.properties.Start_End_Port+
  "<p> corrdenation: <b>" +feature.geometry.coordinates +
- '<a href="'+ feature.properties.web_paget +'" target="_blank">  mTerra </a></p>';
+ '<a href="'+ feature.properties.web_page +'" target="_blank">  mTerra </a></p>';
 
    ///pass_through
    var popupContent3 ="<p>Num :<b>" +feature.properties.numb +
@@ -145,11 +145,11 @@ var url = 'osn.txt';
 ////
 var ngpn =L.layerGroup();
         var nGpn = $.ajax({
-            url:  "ngpn.txt",
+            url:  "nGpn.txt",
             dataType: "json",
-            success: console.log("nggpn data successfully loaded."),
+            success: console.log("nGpn data successfully loaded."),
             error: function(xhr) {
-	    alert(xhr.statusText)
+               alert(xhr.statusText)
             }
           })
      
@@ -165,11 +165,12 @@ var ngpn =L.layerGroup();
         };
     } 
      var kynGpn =  L.geoJson( nGpn.responseJSON, {style: style}).addTo(ngpn);       
-         });
+ 
+        });
   
 var submarine =L.layerGroup();
         var submarsible = $.ajax({
-           url: "submarine.geojson",
+           url: "submarinecable.txt",
             dataType: "json",
             success: console.log("submarsible data successfully loaded."),
             error: function(xhr) {
