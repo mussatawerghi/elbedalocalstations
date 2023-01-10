@@ -141,7 +141,7 @@
 				"Start_End_mTeralineport": "1",
 				"Sart_End_Direction_AddDrop": "1 C-AD",
 				"Start_End_Port": "IN9",
-				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
+				"web_page": "https://www.google.com/"
 			},
 			"geometry": {
 				"coordinates": [25.111, 31.705],
