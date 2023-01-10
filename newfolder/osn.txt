@@ -22,7 +22,7 @@
 				"Start_End_mTeralineport": "2",
 				"Sart_End_Direction_AddDrop": "2 C-AD (O24CC-1/A)",
 				"Start_End_Port": "IN1",
-				"web_paget": "https://www.hlc.ly/"
+				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
 				"coordinates": [23.921, 32.014],
@@ -51,10 +51,10 @@
 				"Start_End_mTeralineport": "1",
 				"Sart_End_Direction_AddDrop": "2 C-AD",
 				"Start_End_Port": "IN9",
-				"web_page":"https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
+				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [25.101, 31.705],
+				"coordinates": [25.051, 31.705],
 				"type": "Point"
 			}
 		},
@@ -85,7 +85,7 @@
 			"geometry": {
 				"coordinates": [
 					[23.921, 32.014],
-					[25.101, 31.705]
+					[25.051, 31.705]
 				],
 				"type": "LineString"
 			}
@@ -141,10 +141,10 @@
 				"Start_End_mTeralineport": "1",
 				"Sart_End_Direction_AddDrop": "1 C-AD",
 				"Start_End_Port": "IN9",
-				"web_page": "https://www.google.com/"
+				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [25.111, 31.705],
+				"coordinates": [25.021, 31.705],
 				"type": "Point"
 			}
 		},
@@ -203,7 +203,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[25.111, 31.705],
+					[25.021, 31.705],
 					[23.941, 32.043]
 				],
 				"type": "LineString"
@@ -263,7 +263,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [23.941, 32.043],
+				"coordinates": [23.851, 32.043],
 				"type": "Point"
 			}
 		},
@@ -322,7 +322,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[23.941, 32.043],
+					[23.851, 32.043],
 					[22.63, 32.655]
 				],
 				"type": "LineString"
@@ -382,7 +382,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [23.951, 32.043],
+				"coordinates": [23.861, 32.043],
 				"type": "Point"
 			}
 		},
@@ -441,7 +441,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[23.951, 32.043],
+					[23.861, 32.043],
 					[22.64, 32.665]
 				],
 				"type": "LineString"
@@ -501,7 +501,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [22.047, 31.342],
+				"coordinates": [21.957, 31.342],
 				"type": "Point"
 			}
 		},
@@ -560,7 +560,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[22.047, 31.342],
+					[21.957, 31.342],
 					[23.971, 32.093]
 				],
 				"type": "LineString"
@@ -620,7 +620,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [22.057, 31.352],
+				"coordinates": [21.967, 31.352],
 				"type": "Point"
 			}
 		},
@@ -679,7 +679,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[22.057, 31.352],
+					[21.967, 31.352],
 					[23.981, 32.103]
 				],
 				"type": "LineString"
@@ -739,7 +739,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [22.64, 32.645],
+				"coordinates": [22.55, 32.645],
 				"type": "Point"
 			}
 		},
@@ -798,7 +798,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[22.64, 32.645],
+					[22.55, 32.645],
 					[21.722, 32.741]
 				],
 				"type": "LineString"
@@ -858,7 +858,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [22.65, 32.655],
+				"coordinates": [22.56, 32.655],
 				"type": "Point"
 			}
 		},
@@ -917,7 +917,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[22.65, 32.655],
+					[22.56, 32.655],
 					[20.835, 32.551]
 				],
 				"type": "LineString"
@@ -977,7 +977,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.127, 32.02],
+				"coordinates": [20.037, 32.02],
 				"type": "Point"
 			}
 		},
@@ -1036,7 +1036,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.127, 32.02],
+					[20.037, 32.02],
 					[22.67, 32.695]
 				],
 				"type": "LineString"
@@ -1096,7 +1096,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [21.722, 32.721],
+				"coordinates": [21.632, 32.721],
 				"type": "Point"
 			}
 		},
@@ -1155,7 +1155,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[21.722, 32.721],
+					[21.632, 32.721],
 					[22.68, 32.705]
 				],
 				"type": "LineString"
@@ -1215,7 +1215,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.924, 32.69],
+				"coordinates": [20.834, 32.69],
 				"type": "Point"
 			}
 		},
@@ -1274,7 +1274,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.924, 32.69],
+					[20.834, 32.69],
 					[20.845, 32.561]
 				],
 				"type": "LineString"
@@ -1334,7 +1334,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.934, 32.79],
+				"coordinates": [20.844, 32.79],
 				"type": "Point"
 			}
 		},
@@ -1393,7 +1393,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.934, 32.79],
+					[20.844, 32.79],
 					[20.147, 32.06]
 				],
 				"type": "LineString"
@@ -1453,7 +1453,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.845, 32.541],
+				"coordinates": [20.755, 32.541],
 				"type": "Point"
 			}
 		},
@@ -1512,7 +1512,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.845, 32.541],
+					[20.755, 32.541],
 					[21.742, 32.761]
 				],
 				"type": "LineString"
@@ -1572,7 +1572,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [21.742, 32.741],
+				"coordinates": [21.652, 32.741],
 				"type": "Point"
 			}
 		},
@@ -1631,7 +1631,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[21.742, 32.741],
+					[21.652, 32.741],
 					[20.157, 32.07]
 				],
 				"type": "LineString"
@@ -1691,7 +1691,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.157, 32.05],
+				"coordinates": [20.067, 32.05],
 				"type": "Point"
 			}
 		},
@@ -1750,7 +1750,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.157, 32.05],
+					[20.067, 32.05],
 					[20.865, 32.581]
 				],
 				"type": "LineString"
@@ -1810,7 +1810,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.865, 32.561],
+				"coordinates": [20.775, 32.561],
 				"type": "Point"
 			}
 		},
@@ -1869,7 +1869,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.865, 32.561],
+					[20.775, 32.561],
 					[21.762, 32.781]
 				],
 				"type": "LineString"
@@ -1958,7 +1958,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.167, 32.06],
+				"coordinates": [20.077, 32.06],
 				"type": "Point"
 			}
 		},
@@ -2017,7 +2017,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.167, 32.06],
+					[20.077, 32.06],
 					[20.885, 32.601]
 				],
 				"type": "LineString"
@@ -2077,7 +2077,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.177, 32.07],
+				"coordinates": [20.087, 32.07],
 				"type": "Point"
 			}
 		},
@@ -2136,7 +2136,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.177, 32.07],
+					[20.087, 32.07],
 					[20.327, 30.746]
 				],
 				"type": "LineString"
@@ -2196,7 +2196,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.187, 32.08],
+				"coordinates": [20.097, 32.08],
 				"type": "Point"
 			}
 		},
@@ -2255,7 +2255,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.187, 32.08],
+					[20.097, 32.08],
 					[20.337, 30.756]
 				],
 				"type": "LineString"
@@ -2315,7 +2315,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.197, 32.09],
+				"coordinates": [20.107, 32.09],
 				"type": "Point"
 			}
 		},
@@ -2374,7 +2374,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.197, 32.09],
+					[20.107, 32.09],
 					[20.347, 30.766]
 				],
 				"type": "LineString"
@@ -2434,7 +2434,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.207, 32.1],
+				"coordinates": [20.117, 32.1],
 				"type": "Point"
 			}
 		},
@@ -2493,7 +2493,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.207, 32.1],
+					[20.117, 32.1],
 					[20.357, 30.776]
 				],
 				"type": "LineString"
@@ -2525,6 +2525,35 @@
 			},
 			"geometry": {
 				"coordinates": [20.397, 32.092],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"numb": "22",
+				"Name": "49371 OCH Benghazi Brega",
+				"Connection_Name": "09498 ODU4# Benghazi Brega",
+				"Demand_Name": "39095 ODU4# Benghazi Brega",
+				"channel_ID": "OCh-039",
+				"OS_Frequency_THz": "194.30000",
+				"MCh_Central _Frequency_THz": "194.30000",
+				"Modulation_Format": "CQP",
+				"FEC_Type": "SDEFEC (25%)",
+				"Format": "OTU10",
+				"miColor": "blue",
+				"statuse": "start",
+				"Start_End_SiteName": "Brega",
+				"Start_End_TransponderType": "OSM-4F/CQP",
+				"Start_End_ LineInterfaceType": "LIM400/CQP",
+				"Start_End_mTeralineslot": "3",
+				"Start_End_mTeralineport": "2",
+				"Sart_End_Direction_AddDrop": "1 C-AD (O24CC-1/A)",
+				"Start_End_Port": "IN1",
+				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
+			},
+			"geometry": {
+				"coordinates": [19.672, 30.369],
 				"type": "Point"
 			}
 		},
@@ -2583,7 +2612,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[19.762, 30.369],
+					[19.672, 30.369],
 					[20.227, 32.14]
 				],
 				"type": "LineString"
@@ -2643,7 +2672,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [19.772, 30.379],
+				"coordinates": [19.682, 30.379],
 				"type": "Point"
 			}
 		},
@@ -2702,7 +2731,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[19.772, 30.379],
+					[19.682, 30.379],
 					[20.237, 32.15]
 				],
 				"type": "LineString"
@@ -2762,7 +2791,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [19.782, 30.389],
+				"coordinates": [19.692, 30.389],
 				"type": "Point"
 			}
 		},
@@ -2821,7 +2850,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[19.782, 30.389],
+					[19.692, 30.389],
 					[20.247, 32.16]
 				],
 				"type": "LineString"
@@ -2881,7 +2910,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [19.792, 30.399],
+				"coordinates": [19.702, 30.399],
 				"type": "Point"
 			}
 		},
@@ -2940,7 +2969,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[19.792, 30.399],
+					[19.702, 30.399],
 					[20.257, 32.17]
 				],
 				"type": "LineString"
@@ -3000,7 +3029,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.357, 30.756],
+				"coordinates": [20.267, 30.756],
 				"type": "Point"
 			}
 		},
@@ -3059,7 +3088,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.357, 30.756],
+					[20.267, 30.756],
 					[22.077, 31.392]
 				],
 				"type": "LineString"
@@ -3119,7 +3148,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.367, 30.766],
+				"coordinates": [20.277, 30.766],
 				"type": "Point"
 			}
 		},
@@ -3178,7 +3207,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.367, 30.766],
+					[20.277, 30.766],
 					[22.087, 31.402]
 				],
 				"type": "LineString"
@@ -3238,7 +3267,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.377, 30.776],
+				"coordinates": [20.287, 30.776],
 				"type": "Point"
 			}
 		},
@@ -3297,7 +3326,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.377, 30.776],
+					[20.287, 30.776],
 					[19.812, 30.439]
 				],
 				"type": "LineString"
@@ -3357,7 +3386,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.387, 30.786],
+				"coordinates": [20.297, 30.786],
 				"type": "Point"
 			}
 		},
@@ -3416,7 +3445,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.387, 30.786],
+					[20.297, 30.786],
 					[19.822, 30.459]
 				],
 				"type": "LineString"
@@ -3476,7 +3505,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.397, 30.796],
+				"coordinates": [20.307, 30.796],
 				"type": "Point"
 			}
 		},
@@ -3535,7 +3564,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.397, 30.796],
+					[20.307, 30.796],
 					[16.82, 30.941]
 				],
 				"type": "LineString"
@@ -3595,7 +3624,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.407, 30.806],
+				"coordinates": [20.317, 30.806],
 				"type": "Point"
 			}
 		},
@@ -3654,7 +3683,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.407, 30.806],
+					[20.317, 30.806],
 					[21.62, 29.241]
 				],
 				"type": "LineString"
@@ -3714,7 +3743,7 @@
 				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
-				"coordinates": [20.417, 30.816],
+				"coordinates": [20.327, 30.816],
 				"type": "Point"
 			}
 		},
@@ -3773,7 +3802,7 @@
 			},
 			"geometry": {
 				"coordinates": [
-					[20.417, 30.816],
+					[20.327, 30.816],
 					[21.63, 29.251]
 				],
 				"type": "LineString"
@@ -14840,6 +14869,35 @@
 			},
 			"geometry": {
 				"coordinates": [12.654, 31.456],
+				"type": "Point"
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"numb": "126",
+				"Name": "62687 OCH CCX RN",
+				"Connection_Name": "07069 ODU4# CCX RN",
+				"Demand_Name": "88967 ODU4# CCX RN",
+				"channel_ID": "OCh-104",
+				"OS_Frequency_THz": "191.50000",
+				"MCh_Central _Frequency_THz": "191.50000",
+				"Modulation_Format": "CQP",
+				"FEC_Type": "SDEFEC (25%)",
+				"Format": "OTUC43",
+				"miColor": "blue",
+				"statuse": "start",
+				"Start_End_SiteName": "RN",
+				"Start_End_TransponderType": "OSM-4F/CQP",
+				"Start_End_ LineInterfaceType": "LIM400/CQP",
+				"Start_End_mTeralineslot": "3",
+				"Start_End_mTeralineport": "1",
+				"Sart_End_Direction_AddDrop": "2 C-AD (O24CC-1/A)",
+				"Start_End_Port": "",
+				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
+			},
+			"geometry": {
+				"coordinates": [12.474, 31.474],
 				"type": "Point"
 			}
 		},
