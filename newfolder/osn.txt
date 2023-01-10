@@ -51,7 +51,7 @@
 				"Start_End_mTeralineport": "1",
 				"Sart_End_Direction_AddDrop": "2 C-AD",
 				"Start_End_Port": "IN9",
-				"web_page":"https://docs.google.com/spreadsheets/d/e/2PACX-1vTtE0ce9ZTpB-x790iQfvEvpNYlMx8grkYIoQvMZHVDPeI40zGDPD9IDT-96eB2rg6OHUIrJy_-X78o/pub?output=xlsx"
+				"web_page":"https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
 			},
 			"geometry": {
 				"coordinates": [25.101, 31.705],
