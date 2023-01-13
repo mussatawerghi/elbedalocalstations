@@ -22,7 +22,7 @@
 				"Start_End_mTeralineport": "2",
 				"Sart_End_Direction_AddDrop": "2 C-AD (O24CC-1/A)",
 				"Start_End_Port": "IN1",
-				"web_page": "https://docs.google.com/spreadsheets/d/1-7TPXd5zfqK6uNUaxCz0ohTJIC8SsjC1BH2JCMA94oY/edit#gid=36401931"
+				"web_page": "https://github.com/mussatawerghi/elbedalocalstations/blob/main/newfolder/miimges.html"
 			},
 			"geometry": {
 				"coordinates": [23.921, 32.014],
