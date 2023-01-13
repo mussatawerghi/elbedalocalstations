@@ -22,7 +22,7 @@
 				"Start_End_mTeralineport": "2",
 				"Sart_End_Direction_AddDrop": "2 C-AD (O24CC-1/A)",
 				"Start_End_Port": "IN1",
-				"web_page": "https://github.com/mussatawerghi/elbedalocalstations/blob/main/newfolder/miimges.html"
+				"web_page": "https://github.com/mussatawerghi/elbedalocalstations/blob/main/newfolder/images/tripolidoronthys.jpg?raw=true"
 			},
 			"geometry": {
 				"coordinates": [23.921, 32.014],
