@@ -71,8 +71,7 @@ var url = 'osn.txt';
  "<p> corrdenation: <b>" +feature.geometry.coordinates +
  '<a href="'+ feature.properties.web_page +'" target="_blank">  mTerra </a></p>';
 
-   ///pass_through
-   var popupContent3 ="<p>Num :<b>" +feature.properties.numb +
+     var popupContent3 ="<p>Num :<b>" +feature.properties.numb +
         "<p> pass through :<b>" +feature.properties.Name + 
         "<p> Connection Name :<b>" +feature.properties.Connection_Name + 
         "<p>Demand Name :<b>" +feature.properties.Demand_Name + 
@@ -82,36 +81,45 @@ var url = 'osn.txt';
        "<p> FEC Type :<b>" +feature.properties.FEC_Type +
        "<p> coordinates :<b>" +feature.geometry.coordinates +
        "</br>" +
-	'<a href="'+ feature.properties.website +'" target="_blank">Website</a></p>' ;
-
-//var endsite=feature.properties && feature.properties.statuse;
-  //   START SIDE does this feature have a property named Start_Site?
-/// 	if (feature.properties && feature.properties.Start_End_SiteName) {
-///////////FOR THE LINE ///////
+	'<a href="'+ feature.properties.web_paget +'" target="_blank">  mTerra </a></p>';
 	layer.bindPopup(popupContent3);
-///	}
    
-
- //if (feature.properties && feature.properties.Start_End_TransponderType) {
-
-///	layer.bindPopup(popupContent2);
-	//}  
  	if (feature.properties && feature.properties.Start_End_SiteName) {
 
 	layer.bindPopup(popupContent12);
 	}   
 
    	
-   	 //	layer.bindPopup(popupContent);
-	//	 layer.on('mouseover', function (e) {
-  //      this.openPopup(e.latlng);
-  //  });
- //   layer.on('mouseout', function (e) {
+  
+		 layer.on('mouseover', function (e) {
+       //this.openPopup(e.latlng);
+      // function highlightFeature(e) {
+    highlightLayer = e.target;
+    if (e.target.feature.geometry.type === 'LineString') {
+      highlightLayer.setStyle({
+        color: '#ffff00',
+      });
+    }
+ //    else {
+ //   highlightLayer.setStyle({
+ //    fillColor: '#ffff00',
+//      fillOpacity: 1
+ //    });
+//    }
+//}
+   });
+    layer.on('mouseout', function (e) {
  //       this.closePopup();
-  //  }); 
-   	
+   highlightLayer = e.target;
+    if (e.target.feature.geometry.type === 'LineString') {
+      highlightLayer.setStyle({
+        color: '#00ff',
+      });
+    }
+   	});
       };
-
+             
+           
 			 map.on('click', function(ev) {
 //	map.setView([32.76133, 21.490234], 6);
 	alert(ev.latlng); // ev is an event object (MouseEvent in this case)
@@ -145,7 +153,7 @@ var url = 'osn.txt';
 ////
 var ngpn =L.layerGroup();
         var nGpn = $.ajax({
-            url:  "ngpn.txt",
+            url:  "nGpn.txt",
             dataType: "json",
             success: console.log("nGpn data successfully loaded."),
             error: function(xhr) {
@@ -170,7 +178,7 @@ var ngpn =L.layerGroup();
   
 var submarine =L.layerGroup();
         var submarsible = $.ajax({
-           url: "submarine.geojson",
+           url: "submarinecable.txt",
             dataType: "json",
             success: console.log("submarsible data successfully loaded."),
             error: function(xhr) {
